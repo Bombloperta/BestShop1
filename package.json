@@ -1,0 +1,26 @@
+{
+  "name": "bestshop1",
+  "version": "1.0.0",
+  "source": "index.html",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "parcel": "^2.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bombloperta/BestShop1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bombloperta/BestShop1/issues"
+  },
+  "homepage": "https://github.com/Bombloperta/BestShop1#readme"
+}
