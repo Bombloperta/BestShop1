@@ -1,3 +1,3 @@
 # BestShop1
 
-demo pod adresem : sebastian-bestshop.netlify.app
+demo pod adresem : https://sebastian-bestshop.netlify.app
